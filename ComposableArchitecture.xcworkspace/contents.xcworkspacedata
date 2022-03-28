@@ -13,13 +13,5 @@
    <FileRef
       location = "group:Examples/SpeechRecognition/SpeechRecognition.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Examples/TicTacToe/TicTacToe.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Examples/Todos/Todos.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Examples/VoiceMemos/VoiceMemos.xcodeproj">
-   </FileRef>
+   
 </Workspace>
